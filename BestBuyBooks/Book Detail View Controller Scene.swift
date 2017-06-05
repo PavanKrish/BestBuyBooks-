@@ -3,7 +3,7 @@
 //  BestBuyBooks
 //
 //  Created by User on 11/23/16.
-//  Copyright © 2016 Gelli,Chiklith Madhukar Siva Sai. All rights reserved.
+//  Copyright © 2016 Pavan,Seeram. All rights reserved.
 //
 
 import UIKit
