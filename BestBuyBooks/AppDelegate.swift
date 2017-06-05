@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BestBuyBooks
 //
-//  Created by Gelli,Chiklith Madhukar Siva Sai on 11/21/16.
-//  Copyright © 2016 Gelli,Chiklith Madhukar Siva Sai. All rights reserved.
+//  Created by User on 11/21/16.
+//  Copyright © 2016 Pavan,Seeram. All rights reserved.
 //
 
 import UIKit
